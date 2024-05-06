@@ -1,0 +1,54 @@
+{
+  "data":[
+      {
+          "employeeId": 101,
+          "firstName":"Krishanu",
+          "lastName": "Dutta",
+          "department": "Sales",
+          "departmentId": "1",
+          "gender":"Male",
+          "email":"krishanu@gmail.com",
+          "phoneNo":"9988776655"
+      },
+      {
+          "employeeId": 102,
+          "firstName":"Ninad",
+          "lastName": "Sen",
+          "department": "Marketing",
+          "departmentId": "2",
+          "gender":"Male",
+          "email":"ninad@gmail.com",
+          "phoneNo":"8877665544"
+      },
+      {
+          "employeeId": 103,
+          "firstName":"Azhar",
+          "lastName": "Choudhury",
+          "department": "Software",
+          "gender":"Male",
+          "departmentId": "3",
+          "email":"azhar@gmail.com",
+          "phoneNo":"4455667788"
+      },
+      {
+          "employeeId": 104,
+          "firstName":"Bhargab",
+          "lastName": "Bhattacharjee",
+          "department": "Hardware",
+          "departmentId": "4",
+          "gender":"Male",
+          "email":"bhargab@gmail.com",
+          "phoneNo":"1122334455"
+      },
+      {
+        "employeeId": 105,
+        "firstName":"Abhishek",
+        "lastName": "Gupta",
+        "department": "Marketing",
+        "departmentId": "2",
+        "gender":"Male",
+        "email":"abhishek@gmail.com",
+        "phoneNo":"9865512700"
+    }
+  ]
+}
